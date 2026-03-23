@@ -1,13 +1,7 @@
-# battery-soh-prediction
-蓄电池健康状态预测系统
-# 克隆仓库
-git clone https://github.com/你的用户名/battery-soh-prediction.git
-cd battery-soh-prediction
+# 蓄电池健康状态(SOH)预测系统
 
-# 创建文件
-# 将上面的 app.py、requirements.txt、README.md 复制到文件夹中
+基于机器学习的蓄电池健康状态预测平台。
 
-# 提交代码
-git add .
-git commit -m "Initial commit: Battery SOH prediction system"
-git push origin main
+## 使用说明
+
+点击左侧边栏的"开始训练模型"按钮即可训练模型，然后使用在线预测功能。
